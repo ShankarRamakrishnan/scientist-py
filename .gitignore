@@ -1,0 +1,32 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Distribution/packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# pytest cache
+.cache/
+
+# Test output
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# Python versions
+python_version.txt
